@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702354658449",
+    "project_id": "hospitallocatorfinder-dfa3d",
+    "storage_bucket": "hospitallocatorfinder-dfa3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702354658449:android:52ba9801b0a17c625c9b30",
+        "android_client_info": {
+          "package_name": "com.example.hospitallocatorfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMLsx1BOKxbuOn4k5Ui6yBQsMPhWmRJ5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
